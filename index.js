@@ -6,9 +6,9 @@ app.use(cors()); // ✅ habilita CORS
 const PORT = 3001;
 const names = { name: "abc" };
 const data = {
-  number: 1,
-  text: "Grupos de biologia",
-  text2: "Formar grupos de até 5 pessoas.",
+  number: 0,
+  text: "Não há informações.",
+  text2: "Não há informações.",
   title2: "Não há informações",
   desc2: "Não há informações."
 };
