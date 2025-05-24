@@ -9,7 +9,7 @@ const data = {
   number: 1,
   text: "Trabalho de Ed.Física 30/05.",
   text2: "Realizar uma pesquisa sobre sistema cardiovascular.",
-  title2: "<b>Possivel</b> apresentação de biologia 27/05",
+  title2: "Possivel apresentação de biologia 27/05",
   desc2: "Apresentar as pesquisas feitas em volta da escola."
 };
 const data2 = {words: "poxa;nossa"};
