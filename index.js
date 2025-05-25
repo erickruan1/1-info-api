@@ -9,8 +9,8 @@ const data = {
   number: 1,
   text: "Trabalho de Ed.Física 30/05.",
   text2: "Realizar uma pesquisa sobre sistema cardiovascular.",
-  title2: "Possivel apresentação de biologia 27/05",
-  desc2: "Apresentar as pesquisas feitas em volta da escola."
+  title2: "Apresentação de biologia 27/05",
+  desc2: "Apresentar as pesquisas feitas em volta da escola, utilizando o tema apresentado no teams."
 };
 const data2 = {words: "poxa;nossa"};
 const arrResponse = [
