@@ -10,7 +10,9 @@ const data = {
   text: "Trabalho de Ed.Física 30/05.",
   text2: "Realizar uma pesquisa sobre sistema cardiovascular.",
   title2: "Apresentação de biologia 27/05",
-  desc2: "Apresentar as pesquisas feitas em volta da escola, utilizando o tema apresentado no teams."
+  desc2: "Apresentar as pesquisas feitas em volta da escola, utilizando o tema apresentado no teams.",
+  title3: "Not Found",
+  desc3: "Not found"
 };
 const data2 = {words: "poxa;nossa"};
 const arrResponse = [
