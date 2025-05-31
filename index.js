@@ -10,7 +10,7 @@ const data = {
   number2: 1,
   text: "Entrega do mapa conceitual 03/06",
   text2: "Entregar o mapa conceitual com o tema do trabalho.",
-  title2: "Prova de biologia 00/00",
+  title2: "Prova de biologia 00/06",
   desc2: "Prova de biologia sem data confirmada, estudos via teams utilizando os slides dos trabalhos.",
   title3: "Not Found",
   desc3: "Not found"
