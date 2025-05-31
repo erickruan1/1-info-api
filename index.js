@@ -7,10 +7,10 @@ const PORT = 3001; // Porta de acesso localhost.
 const names = { name: "abc" };
 const data = {
   number: 1,
-  text: "Trabalho de Ed.Física 30/05.",
-  text2: "Realizar uma pesquisa sobre sistema cardiovascular.",
-  title2: "Apresentação de biologia 27/05",
-  desc2: "Apresentar as pesquisas feitas em volta da escola, utilizando o tema apresentado no teams.",
+  text: "Entrega do mapa conceitual 03/06",
+  text2: "Entregar o mapa conceitual com o tema do trabalho.",
+  title2: "Prova de biologia 00/00",
+  desc2: "Prova de biologia sem data confirmada, estudos via teams utilizando os slides dos trabalhos.",
   title3: "Not Found",
   desc3: "Not found"
 };
