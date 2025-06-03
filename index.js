@@ -1,4 +1,4 @@
-import express from "express"; // Imortando Express (API)
+import express from "express"; // Imortando Express (creador API)
 import cors from "cors"; // Importando a pkg CORS.
 
 const app = express();
@@ -6,10 +6,10 @@ app.use(cors()); // Ativando o CORS package.
 const PORT = 3001; // Porta de acesso localhost.
 const names = { name: "abc" };
 const data = {
-  number: 1,
+  number: 0,
   number2: 0,
-  text: "Entrega do mapa conceitual 03/06",
-  text2: "Entregar o mapa conceitual com o tema do trabalho.",
+  text: "OBMEP 03/06",
+  text2: "Olimpíada Brasileira de Matemática das Escolas Públicas.",
   title2: "Prova de biologia 00/06",
   desc2: "Prova de biologia sem data confirmada, estudos via teams utilizando os slides dos trabalhos.",
   title3: "Not Found",
